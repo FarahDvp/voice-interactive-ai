@@ -1,5 +1,5 @@
 # voice-interactive-ai
-This project is a web application where I implemented a simple AI that allows users to interact with it using voice commands. The AI processes spoken input and responds accordingly, creating an intuitive and hands-free experience
+This project is a web application where I implemented a simple AI that allows users to interact with it using voice commands. The AI processes spoken input and responds accordingly, creating an intuitive and hands-free experience.
 
 ## Technologies used:
 
